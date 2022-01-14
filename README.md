@@ -1,13 +1,13 @@
 <div align="center">
 
-# Computational Physics (PHY453) NPTEL
+# Computational Physics (PHY453) 2021
 
-This repository contains the assignments and solutions for the 3-credit Computational Physics (PHY453) course as part of my Major at IISER Pune. Video lectures of an older version of the same course is available on the National Programme on Technology Enhanced Learning (NPTEL) platform and can be viewed [here](https://nptel.ac.in/courses/115/106/115106118/). The course includes different modules dedicated to solving major problems in physics numerically.
+This repository contains the assignments and solutions for the 3-credit Computational Physics (PHY453) course as part of the Physics major track at IISER Pune in Spring 2021. Video lectures of an older version of the same course are available on the National Programme on Technology Enhanced Learning (NPTEL) platform and can be viewed [here](https://nptel.ac.in/courses/115/106/115106118/). The course includes different modules dedicated to solving problems in physics numerically.
 
-All code for problems are written in fortran95. We then use python and xmgrace for plotting and analysis. I have shared the assignments, my code to solve the problem, and the submiited files along with a README.pdf for each assignment.
+All the code to solve problems are written in fortran95 in a readable format. We then use python and xmgrace for plotting and analysis. The repository contains the assignments, while the `Solutions` directory contains the code I wrote to solve the assignments. It also has most of the solution data files along with a README.pdf for each assignment.
 
 
-> Currently, I do not actively maintain this repository but will try my best to answer any queries. Feel free to ping me at [@anantharao00](https://twitter.com/anantharao00). You can freely fork or star this repo (:p)
+> Currently, I do not actively maintain this repository but will try my best to answer any queries. Feel free to ping me at [@anantharao00](https://twitter.com/anantharao00). You can free to fork or star or download this repository (:p)
 
 </div>
 
@@ -79,25 +79,3 @@ Thank you !
 
 1. NPTEL :: Physics - NOC:Computational Physics. (n.d.). NPTEL. https://nptel.ac.in/courses/115/106/115106118/
 2. DeVries, P. L., & Hamill, P. (1995). A first course in computational physics.
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
